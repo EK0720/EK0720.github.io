@@ -16,8 +16,8 @@ const musics =[
         id: 0,
         number: '01',
         file:'Ngay Chua Giong Bao.mp3',
-        title: 'Ngày chưa giông bão',
-        artist: 'Bùi Lan Hương',
+        title: 'Ngay chua giong bao',
+        artist: 'Bui Lan Huong',
         time: '3:32',
         active:false,
 
