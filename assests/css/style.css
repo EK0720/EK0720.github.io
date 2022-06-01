@@ -364,11 +364,3 @@ a{
 .play-repeat,.shuffle-song,#heart{
     transition: .5s;
 }
-
-.blue {
-    color: rgb(112, 112, 221)
-}
-
-.pink {
-    color: rgb(219, 100, 189)
-}
